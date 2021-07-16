@@ -1,0 +1,18 @@
+{
+   "description": "discord( 디스코드 )를 자주 쓰시는 분들을 위한 웨일 디스코드 사이드바.",
+   "icons": {
+      "128": "icon.png"
+   },
+   "manifest_version": 2,
+   "name": "웨일 디스코드 사이드바",
+   "sidebar_action": {
+      "default_icon": {
+         "128": "icon.png"
+      },
+      "default_page": "https://discord.com/login",
+      "default_title": "웨일 디스코드 사이드바",
+      "use_navigation_bar": true
+   },
+   "version": "1.2.1",
+   "whale_extension": true
+}
